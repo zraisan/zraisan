@@ -1,5 +1,5 @@
 ### Hi, I'm mzkux 👋
-Computer Engineer · Software & AI Engineer — I build full‑stack systems, integrate AI features, and share short hands‑on demo videos of the tools and projects I ship.
+Computer Engineer · Software & AI Engineer. I build full‑stack systems, integrate AI features, and share short hands‑on demo videos of the tools and projects I ship.
 
 #### About me
 I design, build, and test full‑stack applications with embedded AI, from hardware prototypes to production cloud services. I have practical experience across:
