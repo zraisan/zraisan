@@ -13,16 +13,16 @@ I also record short YouTube demos that show tools I test and projects I ship.
 
 #### Stats
 <p align="center">
-  <a href="https://github.com/mzkux">
+  <a href="https://github.com/zraisan">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=mzkux&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="mzkux's GitHub stats" />
   </a>
-  <a href="https://github.com/mzkux">
+  <a href="https://github.com/zraisan">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkux&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mzkux">
+  <a href="https://github.com/zraisan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzkux&theme=radical&hide_border=true" alt="mzkux's GitHub Streak" />
   </a>
 </p>
