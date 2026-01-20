@@ -1,4 +1,4 @@
-### Hi, I'm mzkux 👋
+### Hi, I'm Zain Raisan 👋
 Computer Engineer · Software & AI Engineer. I build full‑stack systems, integrate AI features, and share short hands‑on demo videos of the tools and projects I ship.
 
 #### About me
@@ -14,16 +14,16 @@ I also record short YouTube demos that show tools I test and projects I ship.
 #### Stats
 <p align="center">
   <a href="https://github.com/zraisan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mzkux&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="mzkux's GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" />
   </a>
   <a href="https://github.com/zraisan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzkux&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zraisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zraisan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzkux&theme=radical&hide_border=true" alt="mzkux's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zraisan&theme=radical&hide_border=true" alt="zraisan's GitHub Streak" />
   </a>
 </p>
 
