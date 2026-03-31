@@ -13,18 +13,11 @@ I also record short YouTube demos that show tools I test and projects I ship.
 
 #### Stats
 <p align="center">
-  <a href="https://github.com/zraisan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" />
-  </a>
-  <a href="https://github.com/zraisan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zraisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zraisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/zraisan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zraisan&theme=radical&hide_border=true" alt="zraisan's GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=zraisan&theme=radical&hide_border=true" alt="zraisan's GitHub Streak" />
 </p>
 
 ---
