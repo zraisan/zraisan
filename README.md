@@ -13,7 +13,7 @@ I also record short YouTube demos that show tools I test and projects I ship.
 
 #### Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" />
+  <!-- img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" / -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zraisan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
