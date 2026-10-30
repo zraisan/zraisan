@@ -11,6 +11,13 @@ I design, build, and test full‑stack applications with embedded AI, from hardw
 
 I also record short YouTube demos that show tools I test and projects I ship.
 
+#### What I'm building
+I founded [Razin](https://razin.ai). The open source work lives in the [RazinAI](https://github.com/RazinAI) organization.
+
+- **[argus](https://github.com/RazinAI/argus)** · C++ video pipeline running YOLO with TensorRT on 36 live cameras at once on one laptop GPU ([write up](https://razin.ai/blog/resource-optimization))
+- **[globalmm](https://github.com/RazinAI/globalmm)** · grounded vision and timestamped hearing for a text only Llama 3.2 1B, training nothing but a connector ([write up](https://razin.ai/blog/optimized-multimodal))
+- **[deputy](https://github.com/zraisan/deputy)** · an agent in your browser that turns any page into a typed API for other agents
+
 #### Stats
 <p align="center">
   <!-- img height="180" src="https://github-readme-stats.vercel.app/api?username=zraisan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="zraisan's GitHub stats" / -->
